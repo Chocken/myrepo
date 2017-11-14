@@ -1,1 +1,2 @@
 This is an initial bit of work.
+This is a shiny new feature done as part of 'myfeature'
